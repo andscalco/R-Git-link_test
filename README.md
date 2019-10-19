@@ -13,7 +13,7 @@ This are the main areas that permit version control
 | Working directory | Staging area | Local repo | Upstream repo |
 | --- | --- | --- | --- |
 | _untracked_ | _unmodified_ | _modified_ | _staged_ |
-| >add> | >commit> | >push> | |
-| < | < | | <pull< |
+| >stage> | >commit> | >push> | |
+| < | < | < | <pull< |
 
 
