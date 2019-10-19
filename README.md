@@ -11,7 +11,7 @@ Remember to introduce yourself to GitHub when working with version control. Do t
 This are the main areas that permit version control
 
 | Working directory | Staging area | Local repo | Upstream repo |
-| --- | --- |
+| --- | --- | --- | --- |
 | untracked | unmodified | modified | staged |
 
 
