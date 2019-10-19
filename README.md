@@ -8,6 +8,14 @@ Remember to introduce yourself to GitHub when working with version control. Do t
 - git config --global user.email <my.email>
 
 ## Git Overview
+This are the main areas that permit version control
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
 
 | Local | Local | Local | Remote |
 
