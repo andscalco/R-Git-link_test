@@ -18,11 +18,7 @@ This are the main areas that permit version control
 
 
 | Local | Local | Local | Remote |
-
 | Working directory | Staging Area | Local Repo | Upstream Repo |
-
-| ------------ | ------------ | ------------ | ------------ |
-
 | _untracked_ | _unmodified_ | _modified_ | _staged_ |
 
 
